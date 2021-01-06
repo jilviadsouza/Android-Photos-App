@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Android Photos</string>
+    <string name="create">Create Album</string>
+    <string name="imageIcon">icon</string>
+    <string name="add">Add Photo</string>
+    <string name="delete">Delete Photo</string>
+    <string name="rename_album">Rename Album</string>
+    <string name="delete_album">Delete Album</string>
+    <string name="tags_label">Tags:</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="move_photo">Move Photo</string>
+    <string name="search">Search Photos</string>
+    <string name="image">image</string>
+    <string name="nextbutton">nextButton</string>
+    <string name="previousbutton">previousButton</string>
+    <string name="tag_value">Tag Value</string>
+    <string name="title_activity_album_display">Album Display</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="albumName">Album Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_photo_display">Photo Display</string>
+    <string name="tag_example">location:New Brunswick, person:Anime</string>
+
+    <string-array name="tag_types">
+        <item>Choose a Tag Type…</item>
+        <item>location</item>
+        <item>people</item>
+    </string-array>
+
+    <string-array name="junction_types">
+        <item>Choose a Junction Type…</item>
+        <item>AND</item>
+        <item>OR</item>
+    </string-array>
+    <string name="title_activity_photo_search">Photo Search</string>
+    <string name="tag_type">Tag Type:</string>
+    <string name="title_activity_photo_search_results">Photo Search Results</string>
+    <string name="delete_tag">Delete Tag</string>
+</resources>
